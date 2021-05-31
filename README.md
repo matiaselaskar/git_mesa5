@@ -1,5 +1,5 @@
 # git_mesa5🤓
-/* ]Nico[
+/* ]Nico[\n
 Carolis
 Gonza
 p.setNombre("Jm"); 😛
