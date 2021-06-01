@@ -10,5 +10,12 @@ package Carola;
  * @author CAROLA
  */
 public class Holi {
+
+    int num 1;
     
-}
+    System.out.println (
+
+"Ingrese el nombre del autor");
+  
+  
+          }
