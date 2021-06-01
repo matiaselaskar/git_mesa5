@@ -11,11 +11,9 @@ package Carola;
  */
 public class Holi {
 
-    int num 1;
+    private int num;
     
-    System.out.println (
-
-"Ingrese el nombre del autor");
   
+
   
           }
